@@ -62,7 +62,7 @@ import pandas as pd
 
 def pregunta_01():
     """
-    En esta función se realiza la carga de datos.
+    En esta función se realiza la carga de datos. #a
     """
     # Lea el archivo `mushrooms.csv` y asignelo al DataFrame `df`
     df = pd.read_csv("mushrooms.csv")
